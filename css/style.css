@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+body {
+  margin-top: 60px;
+  background-color: #CFD8DC;
+  color: #fff;
+}
+
+h1{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2,
+p {
+  font-family: 'Roboto', sans-serif;
+  padding: 5px 0 10px 0;
+}
+
+.jumbotron {
+  background-color: #607D8B;
+}
+
+.img-thumbnail {
+  background-color: #CFD8DC;
+  border-color: #CFD8DC;
+  color: black;
+}
+
+blockquote {
+  margin-bottom: 5px;
+  margin-top: 10px;
+  border-left: 0;
+}
+
+ul {
+  font-size: 18px;
+}
+
+.btn-default,
+.btn-default:hover,
+.btn-default:active,
+.btn-default:focus {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff !important;
+}
+
+.btn-default,
+.btn-default:focus {
+  background-color: #F50057;
+  border-color: #F50057;
+}
+
+.btn-default:hover {
+  background-color: #FF4081;
+  border-color: #FF4081;
+}
+
+.btn-default:active {
+  background-color: #C51162 !important;
+  border-color: #C51162 !important;
+}
